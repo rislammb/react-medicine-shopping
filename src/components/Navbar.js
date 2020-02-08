@@ -14,7 +14,7 @@ class Navbar extends Component {
           <img src='phlogo.png' alt='logo' className='navbar-brand' />
         </Link>
         <ul className='navbar-nav align-items-center'>
-          <li className='nav-item ml-4'>
+          <li className='nav-item ml-2'>
             <Link to='/' className='nav-link'>
               products
             </Link>
